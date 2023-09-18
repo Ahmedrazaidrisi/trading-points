@@ -26,5 +26,5 @@
 > if rsi and chart both break the previous swing or high and low then look for entry 
 
 
-
+> if there is signal for 5 ema means if candles is away from 5 ema and rsi fast ema is having good gap with slow ema then there is some points near there is reversal 
 
