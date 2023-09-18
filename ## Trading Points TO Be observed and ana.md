@@ -28,3 +28,4 @@
 
 > if there is signal for 5 ema means if candles is away from 5 ema and rsi fast ema is having good gap with slow ema then there is some points near there is reversal 
 
+> if your ema bollinger band is completely brlow the 3 ema or above the 3 ema then try to enter trade in that direction by finding the proper entry points 
