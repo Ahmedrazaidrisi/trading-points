@@ -19,7 +19,7 @@
 
 > if there is more gap between RSI short ma and long ma then there is higher chances of reversal 
 
-> in chart if the chart is making swingand not breaking the previous swing the try to go long and vice versa 
+> in chart if the chart is making swing and not breaking the previous swing the try to go long and vice versa 
 
 > if chart is breaking the previos swing low or high or previous high or low but rsi is not then there is a change of false breakout 
 
@@ -29,3 +29,7 @@
 > if there is signal for 5 ema means if candles is away from 5 ema and rsi fast ema is having good gap with slow ema then there is some points near there is reversal 
 
 > if your ema bollinger band is completely brlow the 3 ema or above the 3 ema then try to enter trade in that direction by finding the proper entry points 
+
+ 
+> always enter the trade near the 50 ema buy or sell vice versa  
+ > if chart is away or to much far from the 50 ema then avoid taking position until u r conform with other signals atleast 2 signals  
